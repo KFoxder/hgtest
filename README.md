@@ -1,1 +1,1 @@
-# hgtest
+The guide to Kev X Hank's Project
